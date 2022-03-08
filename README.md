@@ -9,5 +9,5 @@
 🌍 My personal websites: 
 
 - 1️⃣ [danielflannery.ie](https://danielflannery.ie/)
-- 2️⃣ [ragebflame.github.io](https://ragebflame.github.io/)
+- 2️⃣ [dfv1.eu](https://dfv1.eu/)
 - 3️⃣ [invisible-reflection](https://invisible-reflection.netlify.app/)
