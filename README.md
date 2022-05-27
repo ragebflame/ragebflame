@@ -1,6 +1,6 @@
 ![Hi! I'm Dan](header.png)
 
-👔 Currently working as a Senior Release Engineer for FBD Insurance.
+👔 Currently working as a Senior Could & Release Engineer for FBD Insurance.
 
 🌱 Currently learning [Rust](https://www.rust-lang.org/)
 
