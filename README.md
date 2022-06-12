@@ -1,8 +1,8 @@
 ![Hi! I'm Dan](header.png)
 
-👔 Currently working as a Senior Could & Release Engineer for [FBD Insurance](https://www.fbd.ie/).
+👔 Currently working as a Senior cloud & release engineer for [FBD Insurance](https://www.fbd.ie/).
 
-🌱 Currently learning [Rust](https://www.rust-lang.org/)
+🌱 Currently learning [Rust](https://www.rust-lang.org/) & [Terraform](https://www.terraform.io/)
 
 📦 Currently maintaining [enControl](https://github.com/ragebflame/enControl) and my dotfiles repos.
 
