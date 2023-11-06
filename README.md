@@ -10,5 +10,4 @@
 
 - 1️⃣ [danielflannery.ie](https://danielflannery.ie/)
 - 2️⃣ [dfv1.eu](https://dfv1.eu/)
-- 3️⃣ [ragebflame.pages.dev](https://ragebflame.pages.dev/)
-- 4️⃣ [invisible-reflection](https://invisible-reflection.netlify.app/)
+- 3️⃣ [invisible-reflection](https://invisible-reflection.netlify.app/)
