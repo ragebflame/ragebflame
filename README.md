@@ -1,6 +1,6 @@
 ![Hi! I'm Dan](header.png)
 
-👔 Currently working as a Senior cloud & release engineer for [FBD Insurance](https://www.fbd.ie/).
+👔 Currently working as a DevOps team lead for [FBD Insurance](https://www.fbd.ie/).
 
 🌱 Currently learning [Rust](https://www.rust-lang.org/) & [Terraform](https://www.terraform.io/)
 
